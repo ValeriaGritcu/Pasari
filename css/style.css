@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=DM+Serif+Display:ital@0;1&family=Expletus+Sans:ital,wght@0,400..700;1,400..700&family=Fredoka:wght@300..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=DM+Serif+Display:ital@0;1&family=Expletus+Sans:ital,wght@0,400..700;1,400..700&family=Fredoka:wght@300..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tilt+Warp&display=swap');
+
+.copil {
+    float: left;
+    overflow: auto;
+    width: 260px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(216, 216, 216);
+    border-radius: 7px;
+    padding: 10px;
+    margin: 2%;
+    text-align: center;
+}
+
+.mama {
+    overflow: auto;
+    min-height: 600px;
+    margin-left: 240px;
+}
+
+img {
+    border-radius: 50%;
+    height: 160px;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Tilt Warp", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "XROT" 0,
+        "YROT" 0;
+        color: rgb(0, 149, 127);
+        margin-bottom: 0px;
+
+}
+
+.img3 {
+    height: 100px;
+}
+
+body {
+    background-color: rgb(243, 243, 243);
+}
+
+h3 {
+    font-family: "Tilt Warp", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "XROT" 0,
+        "YROT" 0;
+        color: rgb(0, 149, 127);
+        font-size: 23px;
+        margin-bottom: 30px;
+}
